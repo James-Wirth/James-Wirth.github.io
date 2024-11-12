@@ -16,8 +16,8 @@
 title: James Wirth
 description: Astrophysics graduate from the University of Cambridge
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_repo: James-Wirth.github.io # the GitHub repo name for your project
+url: "https://James-Wirth.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+github_repo: HotJupiter # the GitHub repo name for your project
 github_username: James-Wirth
 
 # Optional social link, you can choose from the following options:
